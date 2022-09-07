@@ -1,3 +1,0 @@
-﻿  san.cpp
-F:\C语言文件夹\9月\game\game\san.cpp(37,8): error C2374: “ta”: 重定义；多次初始化
-F:\C语言文件夹\9月\game\game\san.cpp(28): message : 参见“ta”的声明
