@@ -1,0 +1,8 @@
+﻿  test.c
+test.obj : error LNK2005: comput 已经在 game.obj 中定义
+test.obj : error LNK2005: dayiarr 已经在 game.obj 中定义
+test.obj : error LNK2005: initarr 已经在 game.obj 中定义
+test.obj : error LNK2005: isfull 已经在 game.obj 中定义
+test.obj : error LNK2005: iswin 已经在 game.obj 中定义
+test.obj : error LNK2005: palymore 已经在 game.obj 中定义
+F:\C语言文件夹\9月\Project1\x64\Debug\Project1.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
