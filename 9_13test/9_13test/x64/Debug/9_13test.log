@@ -1,0 +1,4 @@
+﻿  linaxi.cpp
+F:\C语言文件夹\9月\9_13test\9_13test\linaxi.cpp(64,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+F:\C语言文件夹\9月\9_13test\9_13test\linaxi.cpp(64,10): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "int *" 的参数 1 冲突
+  9_13test.vcxproj -> F:\C语言文件夹\9月\9_13test\x64\Debug\9_13test.exe
