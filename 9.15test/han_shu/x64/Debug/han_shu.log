@@ -1,0 +1,4 @@
+﻿  digui.cpp
+F:\C语言文件夹\9月\han_shu\han_shu\digui.cpp(122,9): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“int”
+F:\C语言文件夹\9月\han_shu\han_shu\digui.cpp(122,9): warning C4313: "printf": 格式字符串中的 "%p" 与类型为 "int" 的参数 1 冲突
+  han_shu.vcxproj -> F:\C语言文件夹\9月\han_shu\x64\Debug\han_shu.exe
