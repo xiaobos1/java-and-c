@@ -1,0 +1,2 @@
+﻿cyuan.obj : error LNK2005: "int __cdecl add(int,int)" (?add@@YAHHH@Z) 已经在 a.obj 中定义
+F:\C语言文件夹\hanshu1\x64\Debug\hanshu1.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
