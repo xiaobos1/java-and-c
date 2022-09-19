@@ -1,0 +1,16 @@
+﻿  源.c
+F:\C语言文件夹\9月\9_18test\9_18test\源.c(173,9): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+F:\C语言文件夹\9月\9_18test\9_18test\源.c(191,16): warning C4305: “=”: 从“double”到“float”截断
+F:\C语言文件夹\9月\9_18test\9_18test\源.c(191,37): warning C4305: “-=”: 从“double”到“float”截断
+F:\C语言文件夹\9月\9_18test\9_18test\源.c(195,38): warning C4305: “+=”: 从“double”到“float”截断
+F:\C语言文件夹\9月\9_18test\9_18test\源.c(246,23): warning C4305: “=”: 从“double”到“float”截断
+F:\C语言文件夹\9月\9_18test\9_18test\源.c(246,44): warning C4305: “-=”: 从“double”到“float”截断
+F:\C语言文件夹\9月\9_18test\9_18test\源.c(250,37): warning C4305: “+=”: 从“double”到“float”截断
+F:\C语言文件夹\9月\9_18test\9_18test\源.c(289,22): warning C4305: “=”: 从“double”到“float”截断
+F:\C语言文件夹\9月\9_18test\9_18test\源.c(289,43): warning C4305: “-=”: 从“double”到“float”截断
+F:\C语言文件夹\9月\9_18test\9_18test\源.c(293,37): warning C4305: “+=”: 从“double”到“float”截断
+F:\C语言文件夹\9月\9_18test\9_18test\源.c(332,23): warning C4305: “=”: 从“double”到“float”截断
+F:\C语言文件夹\9月\9_18test\9_18test\源.c(332,44): warning C4305: “-=”: 从“double”到“float”截断
+F:\C语言文件夹\9月\9_18test\9_18test\源.c(336,37): warning C4305: “+=”: 从“double”到“float”截断
+F:\C语言文件夹\9月\9_18test\9_18test\源.c(46,19): warning C4101: “j”: 未引用的局部变量
+  9_18test.vcxproj -> F:\C语言文件夹\9月\9_18test\x64\Debug\9_18test.exe
