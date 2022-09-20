@@ -1,0 +1,5 @@
+﻿  lian.c
+F:\C语言文件夹\9月\9_20test\9_20test\lian.c(54,29): warning C4133: “函数”: 从“int *”到“const char *”的类型不兼容
+F:\C语言文件夹\9月\9_20test\9_20test\lian.c(52,1): warning C4047: “初始化”:“char”与“char [6]”的间接级别不同
+F:\C语言文件夹\9月\9_20test\9_20test\lian.c(53,1): warning C4133: “初始化”: 从“char *”到“int *”的类型不兼容
+  9_20test.vcxproj -> F:\C语言文件夹\9月\9_20test\x64\Debug\9_20test.exe
