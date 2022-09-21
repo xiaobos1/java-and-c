@@ -1,0 +1,4 @@
+﻿  源.cpp
+F:\C语言文件夹\9月\9_21test\9_21test\源.cpp(106,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+F:\C语言文件夹\9月\9_21test\9_21test\源.cpp(106,9): message : 请考虑在格式字符串中使用“%zd”
+  9_21test.vcxproj -> F:\C语言文件夹\9月\9_21test\x64\Debug\9_21test.exe
