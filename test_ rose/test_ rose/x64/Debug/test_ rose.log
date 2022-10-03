@@ -1,0 +1,17 @@
+﻿  rose.cpp
+F:\C语言文件夹\9月\test_ rose\test_ rose\rose.cpp(27,36): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+F:\C语言文件夹\9月\test_ rose\test_ rose\rose.cpp(34,36): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+F:\C语言文件夹\9月\test_ rose\test_ rose\rose.cpp(44,19): warning C4838: 从“double”转换到“float”需要收缩转换
+F:\C语言文件夹\9月\test_ rose\test_ rose\rose.cpp(44,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+F:\C语言文件夹\9月\test_ rose\test_ rose\rose.cpp(44,27): warning C4838: 从“double”转换到“float”需要收缩转换
+F:\C语言文件夹\9月\test_ rose\test_ rose\rose.cpp(44,27): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+F:\C语言文件夹\9月\test_ rose\test_ rose\rose.cpp(44,43): warning C4838: 从“double”转换到“float”需要收缩转换
+F:\C语言文件夹\9月\test_ rose\test_ rose\rose.cpp(44,43): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+F:\C语言文件夹\9月\test_ rose\test_ rose\rose.cpp(44,51): warning C4838: 从“double”转换到“float”需要收缩转换
+F:\C语言文件夹\9月\test_ rose\test_ rose\rose.cpp(44,51): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+F:\C语言文件夹\9月\test_ rose\test_ rose\rose.cpp(83,42): warning C4305: “参数”: 从“double”到“float”截断
+F:\C语言文件夹\9月\test_ rose\test_ rose\rose.cpp(105,23): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+F:\C语言文件夹\9月\test_ rose\test_ rose\rose.cpp(117,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+F:\C语言文件夹\9月\test_ rose\test_ rose\rose.cpp(123,30): warning C4838: 从“double”转换到“float”需要收缩转换
+F:\C语言文件夹\9月\test_ rose\test_ rose\rose.cpp(123,30): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  test_ rose.vcxproj -> F:\C语言文件夹\9月\test_ rose\x64\Debug\test_ rose.exe
