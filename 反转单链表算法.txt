@@ -1,0 +1,19 @@
+struct ListNode* ReverseList(struct ListNode* pHead ) {
+    // write code here
+     if(pHead==NULL)
+        {
+            return pHead;
+        }
+     struct ListNode *p=pHead;
+     struct ListNode *this=NULL;
+     struct ListNode *pre=NULL;
+    // p=p->next;
+     while(p != NULL)
+     {
+         pre=this;
+         this=p;
+         p=p->next;
+         this->next=pre;
+     }
+     return this;
+}
