@@ -1,14 +1,18 @@
 package com.xiaobojdbc;
+//package com.mysql.jdbc.Driver;
 
 import java.sql.Connection;
-import java.sql.Driver;
 import java.sql.DriverManager;
 import java.sql.Statement;
+import java.sql.SQLException;
+
 //JDBC入门
 public class JDBCdemo {
     public static void main(String[] args) throws Exception {
+       // java.sql.Driver driver=new com.mysql.jdbc.Drever();
+// .registerDriver(driver);
         //注册
-         Class.forName("com.mysql.jdbc.Driver");
+         Class.forName("com.mysql.cj.jdbc.Driver");
         //获取连接
         String url="jdbc:mysql://localhost:3306/gouwa?useSSl=false&serverTimezone=UTC";
         String username="root";
