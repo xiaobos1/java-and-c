@@ -25,7 +25,7 @@ public class MapDemo1 {
         Iterator<String> it=keys.iterator();
         while(it.hasNext()){
             String str=it.next();
-            //用键去获取值
+
             String val=map.get(str);
 
             System.out.println(str+"="+val);
