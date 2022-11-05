@@ -66,7 +66,7 @@ public class PokerGame {
         for(int serialNumber:ts){
             String poker=hm.get(serialNumber);
             System.out.print(poker+" ");
-        }          
+        }
 
         System.out.println();
     }
