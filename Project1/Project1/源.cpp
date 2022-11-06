@@ -369,8 +369,23 @@
 //	return 0;
 //}
 
+//int main()
+//{
+//	printf("%c", 97-32);
+//	return 0;
+//}
+
+void print(char* str)
+{
+	if (*str)
+	{
+		print(str + 1);
+		printf("%c", *str);
+	}
+}
 int main()
 {
-	printf("%c", 97-32);
+	char str[10] = "abcdefg";
+	print(str);
 	return 0;
 }
