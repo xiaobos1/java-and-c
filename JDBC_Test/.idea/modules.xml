@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Project11_6Day/Project11_6Day.iml" filepath="$PROJECT_DIR$/Project11_6Day/Project11_6Day.iml" />
       <module fileurl="file://$PROJECT_DIR$/day30/day30.iml" filepath="$PROJECT_DIR$/day30/day30.iml" />
       <module fileurl="file://$PROJECT_DIR$/jdbc_demo/jdbc_demo.iml" filepath="$PROJECT_DIR$/jdbc_demo/jdbc_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/lianXi/lianXi.iml" filepath="$PROJECT_DIR$/lianXi/lianXi.iml" />
